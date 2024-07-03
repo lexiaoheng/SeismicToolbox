@@ -1,9 +1,9 @@
-# SeismicToolbox
-### SeismicToolbox: Some published work on interpolation, denoising and inversion.   
+# Mariana (pre-version): Open-sourse Seismic Data Process Toolbox 
+### Mariana V0.0.1: Seismic toolbox with some published works on interpolation, denoising and inversion.   
 
 ---
 # Catalog:
-### Seismic Denoising
+### Seismic Denoisings
 #### ```1: Diffusion model for seismic noise attenuation```
 
 ---
