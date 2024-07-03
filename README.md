@@ -3,7 +3,7 @@
 
 ---
 # Catalog:
-### Seismic Denoisings
+### Seismic Denoising
 #### ```1: Diffusion model for seismic noise attenuation```
 
 ---
